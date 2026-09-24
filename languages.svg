@@ -134,31 +134,31 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 25.384%;
+  width: 25.400%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 23.981%;
+  width: 23.971%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 14.191%;
+  width: 14.184%;
 " class="progress-item"></span><span style="
   background-color: #000080; 
-  width: 10.881%;
+  width: 10.876%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 10.765%;
+  width: 10.779%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 4.564%;
+  width: 4.562%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 4.164%;
+  width: 4.162%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 3.188%;
+  width: 3.187%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 2.079%;
+  width: 2.078%;
 " class="progress-item"></span><span style="
   background-color: #012456; 
   width: 0.323%;
@@ -194,7 +194,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">25.38%</span>
+  <span class="percent">25.40%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -210,7 +210,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Vue</span>
-  <span class="percent">23.98%</span>
+  <span class="percent">23.97%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -226,7 +226,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Go</span>
-  <span class="percent">14.19%</span>
+  <span class="percent">14.18%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -258,7 +258,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
-  <span class="percent">10.77%</span>
+  <span class="percent">10.78%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
